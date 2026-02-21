@@ -1,0 +1,6 @@
+crop,soil,water_need,growth_days,base_yield,price
+maize,red,medium,110,22,1800
+groundnut,red,low,100,18,2400
+tomato,loam,high,90,30,1200
+ragi,red,low,120,16,2000
+rice,clay,high,140,35,1500
